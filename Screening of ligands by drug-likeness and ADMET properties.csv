@@ -1,0 +1,14 @@
+Sl. No.,Ligand,Smile Key,Pubchem ID
+1,Coumarin,C1=CC=C2C(=C1)C=CC(=O)O2,323
+2,Ellagic acid,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,5281855
+3,Epicatechin,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,72276
+4,Gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,370
+5,Kaempferol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,5280863
+6,Resveratrol,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,445154
+7,Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,338
+8,Syringic acid,COC1=CC(=CC(=C1O)OC)C(=O)O,10742
+9,Vanillic acid,COC1=C(C=CC(=C1)C(=O)O)O,8468
+10,Vanillin,COC1=C(C=CC(=C1)C=O)O,1183
+11,p Coumaric acid,C1=CC(=CC=C1/C=C/C(=O)O)O,637542
+12,Isosakuranetin,COC1=CC=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O,160481
+13,Quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,5280343
